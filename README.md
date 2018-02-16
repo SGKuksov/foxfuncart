@@ -1,3 +1,5 @@
+![foxfuncart](//placehold.it/150x100 "foxfuncart")
+
 ## Установка при помощи Yeoman генератора yeopress
 
 ``` bash
