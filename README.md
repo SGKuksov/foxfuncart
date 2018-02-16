@@ -1,7 +1,5 @@
-# foxfuncart
-Starter repository for WordPress theme with WooCommerce
-
 ## Установка при помощи Yeoman генератора yeopress
+
 ``` bash
 yo wordpress 
 
