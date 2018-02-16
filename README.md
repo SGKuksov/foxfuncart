@@ -1,4 +1,4 @@
-![foxfuncart](//placehold.it/150x100 "foxfuncart")
+![foxfuncart](https://github.com/SGKuksov/foxfuncart/blob/gh-pages/img/ffc_logo.png "foxfuncart")
 
 ## Установка при помощи Yeoman генератора yeopress
 
