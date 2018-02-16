@@ -1,3 +1,5 @@
+![foxfuncart](https://raw.githubusercontent.com/SGKuksov/foxfuncart/gh-pages/img/ffc_logo.png "foxfuncart")
+
 ## Установка при помощи Yeoman генератора yeopress
 
 ``` bash
