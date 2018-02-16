@@ -1,0 +1,22 @@
+// font-weight: 900; Black
+// font-weight: 800; Heavy
+// font-weight: 700; Bold
+// font-weight: 600; Semibold
+// font-weight: 500; Medium
+// font-weight: 400; Regular
+// font-weight: 300; Thin
+// font-weight: 200; Light
+// font-weight: 100; Ultralight
+
+// Подключение одного файла шрифта с учетом старых браузеров
+@font-face {
+  font-family: family-name;
+  src: url('webfont.eot');                          /* IE9 Compat Modes */
+  src: url('webfont.eot?#iefix') format('embedded-opentype'),/* IE6-IE8 */
+    url('assets/font/font.woff2') format('woff2'),  /* Новейшие браузеры */
+    url('assets/font/font.woff') format('woff'),    /* Новые браузеры и IE9+ */
+    url('assets/font/font.ttf') format('truetype'), /* Старые Safari, Android, iOS */
+    url('assets/font/font.svg') format('svg');
+  font-weight: 400;
+  font-style: normal;
+}
