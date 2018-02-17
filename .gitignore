@@ -59,9 +59,9 @@ bower_components/
 node_modules/
 npm-debug.log
 
-/assets/src/js/vendor
+/assets/
 .grunt-init
-/assets/build/
+/assets/
 /build/*
 !/build/readme.md
 /design/
