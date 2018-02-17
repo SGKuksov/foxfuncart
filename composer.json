@@ -1,15 +1,20 @@
 {
     "name": "sgkuksov/foxfuncart",
     "description": "Starter repository for WordPress theme with WooCommerce",
+    "version": "1.0.0",
     "type": "wordpress-theme",
     "require": {
         "timber/timber": "^1.7"
     },
+    "keywords": ["wordpress", "theme", "timber"],
+    "homepage": "https://sgkuksov.github.io/foxfuncart/",
+    "time": "2018-02-17",
     "license": "MIT",
     "authors": [
         {
             "name": "sgkuksov",
-            "email": "sgkuksov1989@gmail.com"
+            "email": "sgkuksov1989@gmail.com",
+            "role": "Developer"
         }
     ],
     "scripts": {
