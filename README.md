@@ -1,6 +1,6 @@
 ![foxfuncart](https://raw.githubusercontent.com/SGKuksov/foxfuncart/gh-pages/img/ffc_logo.png "foxfuncart")
 
-## Установка при помощи Yeoman генератора yeopress
+## Установка при помощи Yeoman генератора YeoPress
 
 ``` bash
 yo wordpress 
@@ -22,3 +22,7 @@ yo wordpress
 ? Repository branch (template) master
 ? Does this all look correct? (Y/n)
 ``` 
+
+## Установка при помощи composer
+
+composer create-project jeykeu/branch your-theme-name
