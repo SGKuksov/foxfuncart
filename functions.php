@@ -1,5 +1,8 @@
 <?php
 
+// Timber
+require_once(__DIR__ . '/vendor/autoload.php');
+
 add_action('wp_enqueue_scripts', 'theme_enqueue_scripts');
 function theme_enqueue_scripts(){
   wp_deregister_script( 'jquery' );
@@ -10,7 +13,6 @@ function theme_enqueue_scripts(){
 
   wp_register_script( 'main', get_bloginfo('template_url') . '/assets/js/main.js', array(), false, true);
   wp_enqueue_script( 'main' );
-  // wp_enqueue_style( 'global', get_bloginfo('template_url') . '/css/global.css');
 }
 
 function register_menus() {
